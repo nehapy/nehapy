@@ -1,6 +1,7 @@
 <h1 align= "left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Neha</h1>
-<h3 align="left">Computer Science Student, Web & Python Developer⚡</h3>
-<div style="width:100%;height:0;padding-bottom:90%;position:relative;"><iframe src="https://giphy.com/embed/147a7QKzPPbHBC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-lol-147a7QKzPPbHBC">via GIPHY</a></p>
+<h3 align="left">Computer Science Student, Web & Python Developer⚡</h3> <br>
+
+<div style="width:100%; height:0;padding-bottom:90%;position:relative;"><iframe src="https://giphy.com/embed/147a7QKzPPbHBC" width="100%" height="100%" align="right" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-lol-147a7QKzPPbHBC">via GIPHY</a></p>
 
 🔭 I’m currently working with Python🐍
 
