@@ -1,7 +1,7 @@
 <h1 align= "left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Neha</h1>
 <h3 align="left">Computer Science Student, Web & Python Developer⚡</h3> <br>
 
-<img align="right" src="https://giphy.com/embed/147a7QKzPPbHBC" height="300" width="300">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47inej1hyl3mdcf3hpj23m6igiusxq2j5zi5g4ksom&rid=giphy.gif&ct=g" height="300" width="300">
 
 
 🔭 I’m currently working with Python🐍
