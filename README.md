@@ -6,7 +6,7 @@
 
 🔭 I’m currently working with Python🐍
 
-🌱 I’m currently learning JAVA
+🌱 Actively learning JAVA☕
 
 ✨ I am an Introvert🙂
 
